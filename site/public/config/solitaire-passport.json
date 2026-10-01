@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "minimumSupportedVersion": "1.0",
+  "interstitialMinLevel": 8,
+  "interstitialCooldownSeconds": 120,
+  "gameplayBannerEnabled": false,
+  "priceMultiplier": 1.0,
+  "difficultyOffsets": []
+}
